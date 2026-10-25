@@ -1,0 +1,5 @@
+Bergamot Translator 0.4.9
+Copyright the Bergamot project contributors.
+Licensed under the Mozilla Public License 2.0.
+Source: https://github.com/browsermt/bergamot-translator
+Model registry: https://bergamot.s3.amazonaws.com/models/index.json
